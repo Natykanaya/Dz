@@ -56,6 +56,6 @@ public class Questions {
                 + "Варианты ответов:" + lineSeparator() + "1. " + answers.get(0) + lineSeparator()
                 + "2. " + answers.get(1) + lineSeparator()
                 + "3. " + answers.get(2) + lineSeparator()
-                + "Введите номер ответа:";
+                + "ну уж нет!!";
     }
 }
